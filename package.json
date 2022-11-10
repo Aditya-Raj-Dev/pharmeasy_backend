@@ -1,10 +1,9 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "dev":"nodemon index.js"
+    "dev": "nodemon index.js"
   },
   "keywords": [],
   "author": "",
@@ -17,5 +16,14 @@
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^6.7.2",
     "nodemon": "^2.0.20"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aditya-Raj-Dev/pharmeasy_backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Aditya-Raj-Dev/pharmeasy_backend/issues"
+  },
+  "homepage": "https://github.com/Aditya-Raj-Dev/pharmeasy_backend#readme",
+  "description": ""
 }
